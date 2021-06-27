@@ -1,2 +1,2 @@
 # Space-Shooter
-Jogo Space-Shooter - Aula DIO
+Jogo Space Shooter - Aula DIO
